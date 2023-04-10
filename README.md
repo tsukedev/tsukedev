@@ -4,9 +4,9 @@
 - O portfólio tem o objetivo de mostrar sobre minhas criações e gostos. 
 - [Portfolio - Front-End](https://portfolio-tsukedev-tsukedev.vercel.app) e seu repositório: https://github.com/tsukedev/portfolio-tsukedev
 
-- Contactool é um projeto fullstack que almeja a criação de uma agenda telefônica online, retendo a possibilidade de fazer login e cadastrar novos contatos. [Contactool - Fullstack](https://github.com/tsukedev/contactoolFullStack)
+- [Contactool - Fullstack](https://github.com/tsukedev/contactoolFullStack) é um projeto fullstack que almeja a criação de uma agenda telefônica online, retendo a possibilidade de fazer login e cadastrar novos contatos. 
 
-- Astroverso é um site estudantil que tem por objetivo tornar o aprendizado sobre astronomia mais simples, divertido e interativo. [Astroverso - Front-End](https://github.com/orgs/Astro-Verse-m3/repositories)
+- [Astroverso - Front-End](https://github.com/orgs/Astro-Verse-m3/repositories) é um site estudantil que tem por objetivo tornar o aprendizado sobre astronomia mais simples, divertido e interativo. 
 
 - 📫 Contato principal: **devinwork147@gmail.com**
 
