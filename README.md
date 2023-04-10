@@ -1,8 +1,7 @@
 <h1 align="center">Olá, eu sou Yasmin Batista</h1>
 <h3 align="center">Uma desenvolvedora full-stack apaixonada por programação e com vontade de aprender constantemente</h3>
 
-- O portfólio tem o objetivo de mostrar sobre minhas criações e gostos. 
-- [Portfolio - Front-End](https://portfolio-tsukedev-tsukedev.vercel.app) e seu repositório: https://github.com/tsukedev/portfolio-tsukedev
+- [Portfolio - Front-End](https://portfolio-tsukedev-tsukedev.vercel.app) tem o objetivo de mostrar sobre minhas criações e gostos. lém do site, deixo aqui o repositório: https://github.com/tsukedev/portfolio-tsukedev
 
 - [Contactool - Fullstack](https://github.com/tsukedev/contactoolFullStack) é um projeto fullstack que almeja a criação de uma agenda telefônica online, retendo a possibilidade de fazer login e cadastrar novos contatos. 
 
