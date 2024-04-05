@@ -1,5 +1,5 @@
 <h1 align="center">Olá, eu sou Gerard Augusto</h1>
-<h3 align="center">Uma desenvolvedora full-stack apaixonada por programação e com vontade de aprender constantemente</h3>
+<h3 align="center">Um desenvolvedor full-stack apaixonado por programação e com vontade de aprender constantemente</h3>
 
 - [Portfolio - Front-End](https://portfolio-tsukedev-tsukedev.vercel.app) tem o objetivo de mostrar sobre minhas criações e gostos. lém do site, deixo aqui o repositório: https://github.com/tsukedev/portfolio-tsukedev
 
